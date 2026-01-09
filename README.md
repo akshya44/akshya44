@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Akshya Kumar Sahoo.
+
 # 💫 About Me:
 🔭 I’m currently working on:<br>Improving my technical skills, practicing programming, and building small learning-based applications.<br><br>👯 I’m looking to collaborate on:<br>Student-level projects, coding practice, academic assignments, and beginner-friendly tech work.<br><br>🤝 I’m looking for help with:<br>Understanding core computer science concepts, improving coding logic, and real-world problem solving.<br><br>🌱 I’m currently learning:<br>Programming fundamentals, data structures, emerging technologies, and practical implementation skills.<br><br>💬 Ask me about:<br>Basic programming, academic projects, exam preparation topics, and technology fundamentals.<br><br>⚡ Fun fact:<br>I like learning new technologies step by step and improving myself consistently 😊
 
